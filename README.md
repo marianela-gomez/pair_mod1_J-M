@@ -1,4 +1,4 @@
-# pair_mod1_lec02_J-M
+# pair_mod1_J-M
 
 Este repositorio contiene los ejercicios desarrollados durante las clases de Pair Programming del Módulo 1 del Bootcamp de Data Analytics de Adalab.
 
