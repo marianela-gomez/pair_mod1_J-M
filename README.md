@@ -4,5 +4,5 @@ Este repositorio contiene los ejercicios desarrollados durante las clases de Pai
 
 ## Contenidos
 
-    - **Lección 02**: Listas y tuplas
-    - **Lección 03**: Diccionarios y sets
+- **Lección 02**: Listas y tuplas
+- **Lección 03**: Diccionarios y sets
