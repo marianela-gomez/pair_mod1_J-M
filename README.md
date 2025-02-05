@@ -6,3 +6,4 @@ Este repositorio contiene los ejercicios desarrollados durante las clases de Pai
 
 - **Lección 02**: Listas y tuplas
 - **Lección 03**: Diccionarios y sets
+- **Lección 04**: Sentencias de control
