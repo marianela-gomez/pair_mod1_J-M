@@ -7,5 +7,6 @@ Este repositorio contiene los ejercicios desarrollados durante las clases de Pai
 - **Lección 02**: Listas y tuplas
 - **Lección 03**: Diccionarios y sets
 - **Lección 04**: Sentencias de control
-- **Lección05**: Bucles `for` y `try`- `except`
+- **Lección 05**: Bucles `for` y `try`- `except`
+- **Lección 06**: Funciones
 
