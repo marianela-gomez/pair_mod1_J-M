@@ -9,4 +9,5 @@ Este repositorio contiene los ejercicios desarrollados durante las clases de Pai
 - **Lección 04**: Sentencias de control
 - **Lección 05**: Bucles `for` y `try`- `except`
 - **Lección 06**: Funciones
+- **Lección 07**: Clases
 
